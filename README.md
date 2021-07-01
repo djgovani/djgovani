@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
+A Developer mostly working with Angular, VueJs and NativeScript
+
+## Connect with me
+- [Twitter](https://twitter.com/djgovani)
+- [Instagram](https://instagram.com/djgovani)
+- [Facebook](https://facebook.com/djgovani)
+- [LinkedIn](https://linkedin.com/in/djgovani)
 <!--
 **djgovani/djgovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
