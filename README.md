@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A Developer mostly working with Angular, VueJs and NativeScript
+🌱 I’m currently learning Angular and Typescript
 
 ## Connect with me
 - [Twitter](https://twitter.com/djgovani)
