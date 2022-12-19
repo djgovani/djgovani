@@ -1,6 +1,9 @@
 ## Hi there 👋
+👨‍🎓 Working on Angular, Typescript and Vue
 
-🌱 I’m currently learning Angular and Typescript
+🌱 I’m currently learning Ionic
+
+[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9239611)](https://stackoverflow.com/users/9239611/deep-govani)
 
 ## Github Stats  
 <div align="center">
