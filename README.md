@@ -28,6 +28,8 @@
   <a href="https://www.instagram.com/djgovani" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
+
+  [![Peerlist](https://github-readme-badge.peerlist.io/api/djgovani?style=for-the-badge)](https://peerlist.io/djgovani)
 </div>
 
 <br/>
